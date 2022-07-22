@@ -5,6 +5,9 @@
                     },
                     {
                         "path":  "Frankiecs Hello World"
+                    },
+                    {
+                        "path":  "Frankiecs.Test"
                     }
                 ],
     "settings":  {
